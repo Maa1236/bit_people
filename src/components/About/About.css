@@ -1,0 +1,21 @@
+.aboutContent {
+    position: relative;
+    width: 80%;
+    text-align: justify;
+    margin: 10px auto;
+    margin-bottom: 205px;
+} 
+
+.aboutContent h3 {
+    font-size: 70px;
+    padding: 20px 0px;
+}
+.aboutContent h4 {
+    font-size: 60px;
+    padding: 20px 0px;
+}
+
+.aboutContent p {
+font-size: 20px;
+padding: 20px 0px;
+}

@@ -1,0 +1,19 @@
+.containerMain{
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+    flex-wrap: wrap;
+}
+
+.newDiv {
+    text-align: right;
+}
+
+.genderCount{
+    text-align: right;
+    padding:1px 11%;
+    width:100%;
+    flex-shrink: 1;
+    font-size: 20px;
+    color: rgb(155, 155, 155);
+}
